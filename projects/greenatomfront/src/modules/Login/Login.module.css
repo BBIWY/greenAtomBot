@@ -1,0 +1,48 @@
+.Login {
+    display: flex;
+    flex-direction: column;
+    width: 28rem;
+    height: 20.875rem;
+    background-color: #FFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+}
+
+.naming {
+    padding-top: 2.375rem;
+    margin-bottom: 4rem ;
+    font-size: 18px;
+}
+
+.loginInput, .passwordInput {
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: 1px solid #DBDBDB;
+    width: 24.75rem;
+    height: 2.125rem;
+    font-size: 14px;
+
+    margin-bottom: 2.1875rem;
+}
+
+.loginInput:focus {
+    border: none;
+}
+
+.loginButton {
+    width: 24.75rem;
+    height: 2.5rem;
+    font-size: 14px;
+    font-family: Roboto;
+
+    background: rgba(190, 211, 63, .75);
+    border-radius: 2px;
+    border: none;
+
+    color: #FFF;
+}
+
+.loginButton:hover {
+    background: rgba(190, 211, 63, 1);
+}

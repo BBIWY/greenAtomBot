@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  background-color: #EFEFEF;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+
+  justify-content: center;
+
+  font-size: 16px;
+}
+
+.wrapper {
+  padding-top: 10.3rem;
+}
+
