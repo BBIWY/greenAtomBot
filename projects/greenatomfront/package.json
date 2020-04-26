@@ -18,11 +18,13 @@
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1",
+    "react-useinterval": "^1.0.1",
     "reactstrap": "^8.4.1",
     "redux": "^4.0.5",
     "redux-axios-middleware": "^4.0.1",
     "redux-form": "^8.3.5",
-    "reselect": "^4.0.0"
+    "reselect": "^4.0.0",
+    "typeface-roboto": "0.0.75"
   },
   "scripts": {
     "start": "react-scripts start",

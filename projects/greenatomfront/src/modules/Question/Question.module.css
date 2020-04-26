@@ -1,0 +1,176 @@
+.questionAdd {
+    width: 80rem;
+    height: 47rem;
+
+    background: #FFF;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    overflow-y: scroll;
+}
+
+.questionsManagerWrapper {
+    padding-top: 5.25rem;
+    padding-left: 10.2rem;
+}
+
+.textQuestionsManager {
+    height: 7%;
+    width: 95%;
+    font-size: 1.5rem;
+    line-height: 1.875rem;
+    font-family: Roboto, serif;
+    font-style: normal;
+    font-weight: normal;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: .5rem;
+
+    border-bottom: 1px solid #F0F0F0;
+}
+
+.addQuestionForm {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+
+    height: 93%;
+    width: 95%;
+}
+
+.labelText {
+    display: flex;
+    width: 7rem;
+
+    font-family: Roboto, serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: .875rem;
+    line-height: 1.875rem;
+
+    margin-right: 4rem;
+}
+
+.labelTextMessage {
+    display: flex;
+    width: 7rem;
+
+    font-family: Roboto, serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: .875rem;
+    line-height: 1.875rem;
+}
+
+.deleteButtonCategory {
+    cursor: pointer;
+}
+
+.fieldWithLabel {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    margin-bottom: .5rem;
+}
+
+.falseAnswersGroup {
+    display: flex;
+    flex-direction: column;
+}
+
+.addFalseAnswerButton {
+    margin-bottom: .5rem;
+    width: 5.5625rem;
+    height: 2rem;
+    border: none;
+
+    background: #BED33F;
+    border-radius: 4px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: .875rem;
+    line-height: 1rem;
+    color: #FFF;
+}
+
+.addFalseAnswerButtonIco {
+    padding-left: 2rem;
+    margin-bottom: .5rem;
+    cursor: pointer;
+}
+
+.textArea {
+    margin-right: .5rem;
+}
+
+.textAreaLabel {
+    width: 50%;
+}
+
+.textAreaMain {
+    width: 50%;
+}
+
+.addQuestionButton, .backButton {
+    width: 5.5625rem;
+    height: 2rem;
+    border: none;
+
+    background: #BED33F;
+    border-radius: 4px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: .875rem;
+    line-height: 1rem;
+    color: #FFF;
+    cursor: pointer;
+
+    margin-bottom: 0.5rem;
+}
+
+.sendButtonTelegram {
+    background-color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.baitButton {
+    margin-bottom: .5rem;
+    cursor: pointer;
+}
+
+.deleteAnswerButton {
+    background: #F44336;
+    border-radius: .25rem;
+
+    border: none;
+    width: 5.5625rem;
+    height: 2rem;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: .875rem;
+    line-height: 1rem;
+    color: #FFF;
+}
+
+.deleteButton {
+    cursor: pointer;
+}
+
+.backButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}

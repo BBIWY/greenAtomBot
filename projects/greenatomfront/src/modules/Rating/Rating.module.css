@@ -1,0 +1,85 @@
+.ManagerWrapper {
+    padding-top: 5.25rem;
+    padding-left: 10.2rem;
+}
+
+.ratingManager {
+    height: 47rem;
+    width: 80rem;
+    background: #FFF;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+
+.textRatingManager {
+    height: 7%;
+    width: 95%;
+    font-size: 1.5rem;
+    line-height: 1.875rem;
+    font-family: Roboto, serif;
+    font-style: normal;
+    font-weight: normal;
+
+    display: flex;
+    align-items: center;
+    justify-content: left;
+
+    border-bottom: 1px solid #F0F0F0;
+}
+
+.textRatingManagerQuestion {
+    height: 7%;
+    width: 95%;
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+    font-family: Roboto, serif;
+    font-style: normal;
+    font-weight: 300;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    border-bottom: 1px solid #F0F0F0;
+}
+
+.telegram {
+    cursor: pointer;
+}
+
+.ratingTable {
+    width: 95%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.ratingTableHeader, .ratingTableRow {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #F0F0F0;
+    flex-shrink: 0;
+
+    width: 100%;
+    height: 8.3%;
+}
+
+.ratingTableBody {
+    width: 100%;
+    height: 91.7%;
+
+    display: flex;
+    flex-direction: column;
+    overflow-y: overlay;
+}
+
+.tableSpan {
+    width: 33%;
+}

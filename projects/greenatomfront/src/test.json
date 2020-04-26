@@ -1,0 +1,229 @@
+{
+    "result": "ok",
+    "answer": [
+        {
+            "question_id": 3,
+            "question": "Какой тип в C++ используют для создания строк",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 1,
+            "questionType": 2
+        },
+        {
+            "question_id": 4,
+            "question": "Какую структуру используют в C++ в качестве динамического массива?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 1,
+            "questionType": 2
+        },
+        {
+            "question_id": 5,
+            "question": "С++ имеет std::array?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 1,
+            "questionType": 2
+        },
+        {
+            "question_id": 6,
+            "question": "С++ имеет сборщик мусора?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 1,
+            "questionType": 2
+        },
+        {
+            "question_id": 7,
+            "question": "none === none Что будет?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 3,
+            "questionType": 3
+        },
+        {
+            "question_id": 8,
+            "question": "Js интерпритируемый?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 3,
+            "questionType": 3
+        },
+        {
+            "question_id": 9,
+            "question": "Функция прохода по массиву?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 3,
+            "questionType": 3
+        },
+        {
+            "question_id": 3,
+            "question": "Какой тип в C++ используют для создания строк",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 1,
+            "questionType": 2
+        },
+        {
+            "question_id": 4,
+            "question": "Какую структуру используют в C++ в качестве динамического массива?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 1,
+            "questionType": 2
+        },
+        {
+            "question_id": 5,
+            "question": "С++ имеет std::array?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 1,
+            "questionType": 2
+        },
+        {
+            "question_id": 6,
+            "question": "С++ имеет сборщик мусора?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 1,
+            "questionType": 2
+        },
+        {
+            "question_id": 7,
+            "question": "none === none Что будет?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 3,
+            "questionType": 3
+        },
+        {
+            "question_id": 8,
+            "question": "Js интерпритируемый?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 3,
+            "questionType": 3
+        },
+        {
+            "question_id": 9,
+            "question": "Функция прохода по массиву?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 3,
+            "questionType": 3
+        },
+        {
+            "question_id": 3,
+            "question": "Какой тип в C++ используют для создания строк",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 1,
+            "questionType": 2
+        },
+        {
+            "question_id": 4,
+            "question": "Какую структуру используют в C++ в качестве динамического массива?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 1,
+            "questionType": 2
+        },
+        {
+            "question_id": 5,
+            "question": "С++ имеет std::array?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 1,
+            "questionType": 2
+        },
+        {
+            "question_id": 6,
+            "question": "С++ имеет сборщик мусора?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 1,
+            "questionType": 2
+        },
+        {
+            "question_id": 7,
+            "question": "none === none Что будет?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 3,
+            "questionType": 3
+        },
+        {
+            "question_id": 8,
+            "question": "Js интерпритируемый?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 3,
+            "questionType": 3
+        },
+        {
+            "question_id": 9,
+            "question": "Функция прохода по массиву?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 3,
+            "questionType": 3
+        },
+        {
+            "question_id": 3,
+            "question": "Какой тип в C++ используют для создания строк",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 1,
+            "questionType": 2
+        },
+        {
+            "question_id": 4,
+            "question": "Какую структуру используют в C++ в качестве динамического массива?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 1,
+            "questionType": 2
+        },
+        {
+            "question_id": 5,
+            "question": "С++ имеет std::array?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 1,
+            "questionType": 2
+        },
+        {
+            "question_id": 6,
+            "question": "С++ имеет сборщик мусора?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 1,
+            "questionType": 2
+        },
+        {
+            "question_id": 7,
+            "question": "none === none Что будет?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 3,
+            "questionType": 3
+        },
+        {
+            "question_id": 8,
+            "question": "Js интерпритируемый?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 3,
+            "questionType": 3
+        },
+        {
+            "question_id": 9,
+            "question": "Функция прохода по массиву?",
+            "countAnsers": 0,
+            "countRightAnswers": 0,
+            "user_author": 3,
+            "questionType": 3
+        }
+    ]
+}
